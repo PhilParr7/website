@@ -1,0 +1,11 @@
+<span id="a">null@VM3</span>:<span id="b">~</span><span id="c">$</span> cd Home/<!-- kjsdfhkjdhsfkjdshfkj -->Readme
+<span id="a">null@VM3</span>:<span id="b">~</span><span id="c">$</span> cat README.md<br/><br/>
+My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Null<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently learning Javascript</p>
+<p>I love to code and play games.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I have tried in fields like Raspberry Pi, Arduinos, and Game Development and Web Development</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I love to develop apps, games and web-apps.<br><br>Do you want to see one of my completed projects? <a href="https://github.com/Sudo-null7/Eurotunnel-API"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can visit my other profiles, here: <br> <a href="https://twitter.com/NullingParr">Twitter</a> <br> <a href="https://github.com/Sudo-null7/">GitHub</a>.</p>
+
+<span id="a">null@VM3</span>:<span id="b">~</span><span id="c">$</span> exit
